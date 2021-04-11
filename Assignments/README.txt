@@ -1,4 +1,4 @@
-this is to inform about the files inside the directory (include css)
+this is to inform about the files inside the directory (include css), includng js-assignment
 index.html file
 README text file (* some new changes 2)
 

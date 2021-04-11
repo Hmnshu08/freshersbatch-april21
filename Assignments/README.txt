@@ -3,3 +3,4 @@ index.html file
 README text file
 
 *Some minor information
+$Some new changes
